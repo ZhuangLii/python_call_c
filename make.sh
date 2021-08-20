@@ -1,0 +1,1 @@
+g++ b.cpp -I/home/stq/Desktop/GO_SDK/Gocator/GoSdk/GoSdk -I/home/stq/Desktop/GO_SDK/Gocator/GoSdk -I/home/stq/Desktop/GO_SDK/Platform/kApi -L/home/stq/Desktop/GO_SDK/lib/linux_x64d -lGoSdk -lkApi -fpermissive -std=gnu++0x -shared -fPIC -o libLMI.so
